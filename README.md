@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning html5, Java, CSS, JS.
 - 💞️ I’m looking to do my own projects to start having a decent resume.
 - 📫 How to reach me (jose.maresd@outlook.com)
+-  So I´ll appreciate any comment and aportation you want to make.
 
 <!---
 JoseMaresd/JoseMaresd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
